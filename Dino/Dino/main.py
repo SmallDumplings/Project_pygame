@@ -1,8 +1,3 @@
-# Dino
-
-# Author : Prajjwal Pathak (pyguru)
-# Date : Sunday, 17 October, 2021
-
 import random
 import pygame
 
